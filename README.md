@@ -1,7 +1,7 @@
 # Nickolas Regas  
 **AI/ML Engineer | Software Developer | Robotics & Systems**  
 📍 Westfield, NJ | 📞 (908) 577-7378 | ✉️ [n.a.regas@wustl.edu](mailto:n.a.regas@wustl.edu)  
-🔗 [linkedin.com/in/nick](www.linkedin.com/in/nick-regas-b051802b3 | 🖥️ [github.com/nrgameace](https://github.com/nrgameace)
+🔗 [linkedin.com/in/nick](www.linkedin.com/in/nick-regas-b051802b3) | 🖥️ [github.com/nrgameace](https://github.com/nrgameace)
 
 ---
 
@@ -71,19 +71,16 @@
 
 | Category       | Technologies |
 |----------------|--------------|
-| **Languages**  | Python (Expert), Java, C++, MATLAB |
+| **Languages**  | Python, Java, C++, MATLAB |
 | **ML / AI**    | PyTorch, XGBoost, Sentence Transformers, Sci-Kit Learn, NumPy, pandas |
 | **Tools**      | Git, Linux, VS Code, Jupyter, GitHub Pages |
 | **Frameworks** | WordPress, Zapier, Unity, Microsoft Office |
 
 ---
 
-## Seeking: Summer 2026 Internships  
-**Machine Learning | Software Engineering | Quantitative Research | Robotics**
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-nickregas-black?logo=github)](https://github.com/nickregas)  
+[![GitHub](https://img.shields.io/badge/GitHub-nrgameace-black?logo=github)](https://github.com/nrgameace)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nickolas_Regas-blue?logo=linkedin)](https://linkedin.com/in/nickolas-regas)  
 [![Email](https://img.shields.io/badge/Email-n.a.regas@wustl.edu-red?logo=gmail)](mailto:n.a.regas@wustl.edu)
 
