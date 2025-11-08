@@ -1,93 +1,67 @@
-# Nickolas Regas  
-**AI/ML Engineer | Software Developer | Robotics & Systems**  
-📍 Westfield, NJ | 📞 (908) 577-7378 | ✉️ [n.a.regas@wustl.edu](mailto:n.a.regas@wustl.edu)  
-🔗 [linkedin.com/in/nick](www.linkedin.com/in/nick-regas-b051802b3) | 🖥️ [github.com/nrgameace](https://github.com/nrgameace)
+## 👋 About Me
 
----
+Hi, I'm **Nick Regas**, a passionate **AI/ML Engineer**. <br/>I specialize in Interested in machine learning, fintech, and software development.
 
-[![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white)](#)
-[![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-red?logo=pytorch&logoColor=white)](#)
-[![XGBoost](https://img.shields.io/badge/XGBoost-GPU-orange?logo=xgboost&logoColor=white)](#)
-[![IEEE](https://img.shields.io/badge/IEEE-Published-success)](#)
-[![GPA: 4.0](https://img.shields.io/badge/GPA-4.0/4.0-success)](#)
+## 📬 Contact
+<div style="height:fit-content;display:flex;flex-wrap:wrap; gap: 10px;"><span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
+      <img src="https://cdn-icons-png.flaticon.com/128/15889/15889542.png" width="20" height="20" />
+      <a href="mailto:n.a.regas@wustl.edu">n.a.regas@wustl.edu</a>
+    </span>
 
----
-
-## Education  
-**Washington University in St. Louis**  
-*B.S. Electrical Engineering & Computer Science | Minor in Finance*  
-**Aug 2025 – May 2029** | **GPA: 4.00/4.00**  
-- *Data Structures & Algorithms, Differential Equations, Physics (Mechanics & E&M), Calculus III*
-
----
-
-## Featured Projects
-
-### Stock Market Prediction from News Headlines  
-*NLP | Sentence Transformers | XGBoost on GPU*  
-[View Repo](https://github.com/nickregas/vti-sentiment-predictor)  
-- **78.4% accuracy** predicting **VTI daily direction** using **only headlines**  
-- GPU-accelerated `XGBClassifier` on 384-dim embeddings  
-- Live inference: `Tester.ipynb`
-
----
-
-### A* vs RRT* Drone Pathfinding  
-*Autonomous UAVs | Python | DJI Tello API | PyGame*  
-[MIT URTC 2024 | IEEE Published]  
-- **A* 3–5× faster**; **RRT* more efficient** in complex mazes  
-- Real-world drone flights in 4 environments  
-- Virtual → physical path translation
-
----
-
-## Experience
-
-**IT Specialist & Consultant**  
-*Patel Law Offices* | **Nov 2024 – Present**  
-- Manage 10+ WordPress sites (IONOS)  
-- 20+ Zapier automations → **+40% efficiency**  
-- Refurbished 5 servers → **$1,000+ saved**  
-- Enabled x86 apps on ARM via emulation
-
----
-
-**Research Scholar**  
-*Governor’s School of NJ in Engineering & Technology* | **Summer 2024**  
-- Top 60 statewide selection  
-- Lockheed Martin collaboration  
-- Presented at **MIT**, published in **IEEE**
-
----
-
-**Code Coach**  
-*The Coder School* | **Jun – Aug 2025**  
-- Taught Python & robotics to 12 students  
-- Led robot-building + block-coding workshops
-
----
-
-## Technical Skills
-
-| Category       | Technologies |
-|----------------|--------------|
-| **Languages**  | Python, Java, C++, MATLAB |
-| **ML / AI**    | PyTorch, XGBoost, Sentence Transformers, Sci-Kit Learn, NumPy, pandas |
-| **Tools**      | Git, Linux, VS Code, Jupyter, GitHub Pages |
-| **Frameworks** | WordPress, Zapier, Unity, Microsoft Office |
-
----
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-nrgameace-black?logo=github)](https://github.com/nrgameace)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nickolas_Regas-blue?logo=linkedin)](https://linkedin.com/in/nickolas-regas)  
-[![Email](https://img.shields.io/badge/Email-n.a.regas@wustl.edu-red?logo=gmail)](mailto:n.a.regas@wustl.edu)
+<span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
+      <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" width="20" height="20" />
+      <a href="https://github.com/nrgameace">GitHub</a>
+    </span>
 
 </div>
 
----
+## 🧠 Skills
 
-> **4.0 GPA | IEEE Published | Full-Stack ML | Real-World Impact**  
-*Open to collaboration and full-time opportunities.*  
-**Star my work if you’re impressed!**
+### Languages
+
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/python" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">Python</span>
+</span>
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">Java</span>
+</span>
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/cplusplus" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">C++</span>
+</span>
+
+### DevOps & Tools
+
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/git" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">Git</span>
+</span>
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/github" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">GitHub</span>
+</span>
+
+## 📁 Projects
+
+### Predicting the Stock Market using Sentiment Analysis of News Headlines
+
+This project predicts daily price movements of the Vanguard Total Stock Market ETF (VTI) using financial news headlines as the sole input. Leveraging natural language processing (NLP) and gradient-boosted decision trees, the model classifies whether VTI will close higher or lower than its opening price based on the sentiment and context of news headlines published that day.
+
+🔗 [GitHub Repo](https://github.com/nrgameace/StockMarketPredictionUsingAIAnalysisofHeadlines)
+
+## 📊 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=nrgameace&label=Profile%20views&color=0e75b6&style=flat)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nrgameace&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nrgameace&layout=compact)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=nrgameace&theme=flat)
+
+## 🏷️ Badges
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/b051802b3)
+
