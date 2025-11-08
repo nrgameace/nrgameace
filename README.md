@@ -51,17 +51,7 @@ This project predicts daily price movements of the Vanguard Total Stock Market E
 
 🔗 [GitHub Repo](https://github.com/nrgameace/StockMarketPredictionUsingAIAnalysisofHeadlines)
 
-## 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=nrgameace&label=Profile%20views&color=0e75b6&style=flat)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nrgameace&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nrgameace&layout=compact)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=nrgameace&theme=flat)
-
 ## 🏷️ Badges
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/b051802b3)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/nick-regas-b051802b3)
 
