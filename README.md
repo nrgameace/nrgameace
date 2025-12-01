@@ -31,6 +31,10 @@ Hi, I'm **Nick Regas**, a passionate **AI/ML Engineer**. <br/>I specialize in In
   <img src="https://cdn.simpleicons.org/cplusplus" width="32" height="32" style="display:block;margin:0 auto;" />
   <span style="font-size:11px;display:block;margin-top:4px;">C++</span>
 </span>
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/sql" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">SQL</span>
+</span>
 
 ### DevOps & Tools
 
